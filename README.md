@@ -6,7 +6,7 @@ MindMap is a clean, powerful, and intelligent task & note-taking mobile applicat
 
 ## 📱 APK Download
 
-🔗 [Click here to download the latest MindMap APK](https://github.com/HaiderAli228/MindMap-Thought-Organizer/releases/latest)  
+🔗 [Click here to download the latest MindMap APK](https://github.com/HaiderAli228/MindMap---APK/releases/download/v1.1.0/MindMap-app-release.apk)  
 *(Make sure to allow unknown sources on your Android device to install)*
 
 ---
